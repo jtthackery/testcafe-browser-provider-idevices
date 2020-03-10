@@ -37,7 +37,6 @@
     "gulp-babel": "~8.0.0",
     "gulp-eslint": "~6.0.0",
     "gulp-mocha": "~7.0.2",
-    "node-version": "~1.2.0",
-    "publish-please": "~5.5.1"
+    "node-version": "~1.2.0"
   }
 }
