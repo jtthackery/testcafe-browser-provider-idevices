@@ -1,6 +1,6 @@
 {
   "name": "@jtthackery/testcafe-browser-provider-idevices",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "idevice TestCafe browser provider plugin.",
   "repository": "https://github.com/jtthackery/testcafe-browser-provider-idevices",
   "homepage": "https://github.com/jtthackery/testcafe-browser-provider-idevices",
