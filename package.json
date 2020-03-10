@@ -1,5 +1,5 @@
 {
-  "name": "testcafe-browser-provider-idevice",
+  "name": "@jtthackery/testcafe-browser-provider-idevices",
   "version": "1.0.0",
   "description": "idevice TestCafe browser provider plugin.",
   "repository": "https://github.com/jtthackery/testcafe-browser-provider-idevices",
